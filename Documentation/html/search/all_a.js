@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['label1',['label1',['../class_conllu_visualiser_1_1_app_form.html#ab848d9d029065d068b850621f9f075e7',1,'ConlluVisualiser::AppForm']]],
+  ['labelshortcut',['labelShortcut',['../class_conllu_visualiser_1_1_word_fields_form.html#a63c1de2ba728fc811b2255ed6e32eb9d',1,'ConlluVisualiser::WordFieldsForm']]],
+  ['lastfoundsentence',['LastFoundSentence',['../class_finder_1_1_node_finder.html#ab949bb82149c798c68f29ec96d99cb35',1,'Finder.NodeFinder.LastFoundSentence()'],['../class_finder_1_1_sentence_finder.html#aa09ecdb6d1f134e59fd6f7476cf9f95c',1,'Finder.SentenceFinder.LastFoundSentence()']]],
+  ['lastwordindex',['LastWordIndex',['../class_finder_1_1_node_finder.html#a663d843cdde7f930e1ca39678f21bf57',1,'Finder::NodeFinder']]],
+  ['leftpanel',['leftPanel',['../class_conllu_visualiser_1_1_app_form.html#a422b45f3adfb5330021752943d435f10',1,'ConlluVisualiser::AppForm']]],
+  ['leftspace',['LeftSpace',['../class_graph_visualiser_1_1_basic_visualiser_1_1_basic_point_counter.html#ae179efb4170ad6fc4dd04fd0378124f5',1,'GraphVisualiser::BasicVisualiser::BasicPointCounter']]],
+  ['legendid',['legendId',['../class_finder_1_1_find_sentence_box.html#a186bc0092eada7b23ed7ad6a99441368',1,'Finder.FindSentenceBox.legendId()'],['../class_conllu_visualiser_1_1_insert_new_sentence_box.html#ab2ec31b1e9b7e27ad3126d301b4e3e66',1,'ConlluVisualiser.InsertNewSentenceBox.legendId()']]],
+  ['legendsent',['LegendSent',['../class_finder_1_1_find_sentence_box.html#a1375101f210938bc29002edeb8327393',1,'Finder.FindSentenceBox.LegendSent()'],['../class_conllu_visualiser_1_1_insert_new_sentence_box.html#a778e3e50a1cd2873ac30b1b43ae177d1',1,'ConlluVisualiser.InsertNewSentenceBox.LegendSent()']]],
+  ['lemma',['Lemma',['../class_conllu_visualiser_1_1_app_form.html#a43e74aa7184654bf032c5d57e251b9fc',1,'ConlluVisualiser.AppForm.Lemma()'],['../class_conllu_visualiser_1_1_word_info.html#a9a2c9ea6c4818ce75025aa42aae10a7b',1,'ConlluVisualiser.WordInfo.Lemma()']]],
+  ['level',['Level',['../class_conllu_visualiser_1_1_word_point.html#a25f44a4b1ea568a7b8106c2a8971bc7d',1,'ConlluVisualiser::WordPoint']]],
+  ['leveldifference',['LevelDifference',['../class_graph_visualiser_1_1_basic_visualiser_1_1_basic_point_counter.html#a3999496ee9b97f56694e5977b5c24ac9',1,'GraphVisualiser::BasicVisualiser::BasicPointCounter']]],
+  ['levelsinenhanced',['LevelsInEnhanced',['../class_graph_visualiser_1_1_enhanced_visualiser_1_1_enhanced_point_counter.html#a3f7ccced369b3bf5556a3b30657a2984',1,'GraphVisualiser::EnhancedVisualiser::EnhancedPointCounter']]],
+  ['levelsofdeps',['LevelsOfDeps',['../class_graph_visualiser_1_1_enhanced_visualiser_1_1_enhanced_point_counter.html#ab661d900870eccb7e4c18eb4c491077d',1,'GraphVisualiser::EnhancedVisualiser::EnhancedPointCounter']]],
+  ['linepen',['LinePen',['../class_graph_visualiser_1_1_graphics_schema.html#a6154a739d17218b5a63251f47bcbbc82',1,'GraphVisualiser::GraphicsSchema']]],
+  ['listofsentences',['ListOfSentences',['../class_conllu_visualiser_1_1_list_of_sentences.html',1,'ConlluVisualiser.ListOfSentences'],['../class_conllu_visualiser_1_1_list_of_sentences.html#a7aa1f2409f98ff19441c323c518c0ec7',1,'ConlluVisualiser.ListOfSentences.ListOfSentences()']]],
+  ['listofsentences_2ecs',['ListOfSentences.cs',['../_list_of_sentences_8cs.html',1,'']]],
+  ['load',['Load',['../class_conllu_visualiser_1_1_shortcut_keys.html#a2cf7e5d8ae891e888fd6b05ab3c907ec',1,'ConlluVisualiser::ShortcutKeys']]],
+  ['loadfile',['LoadFile',['../class_conllu_visualiser_1_1_app_form.html#afc6c670bd162c4b67b24ae6be2ddaf0a',1,'ConlluVisualiser.AppForm.LoadFile()'],['../interface_conllu_visualiser_1_1_i_file_loader.html#a32d7bc8ecb8ce5c8e736d5a24c2f9608',1,'ConlluVisualiser.IFileLoader.LoadFile()'],['../class_conllu_visualiser_1_1_simple_file_loader.html#a3c3c90895de6f8ba50deffe3c8e280aa',1,'ConlluVisualiser.SimpleFileLoader.LoadFile()']]],
+  ['loadsimplesentencestoolstripmenuitem_5fclick',['LoadSimpleSentencesToolStripMenuItem_Click',['../class_conllu_visualiser_1_1_app_form.html#ac834dd848a9209fe1db121325990975a',1,'ConlluVisualiser::AppForm']]]
+];

@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['main',['Main',['../class_conllu_visualiser_1_1_program.html#a4fb6ca4fe7322bd6a11eff42f49b52ae',1,'ConlluVisualiser::Program']]],
+  ['mainform',['MainForm',['../class_conllu_visualiser_1_1_current_state.html#ad985e4a2764fcefb251e654e3c5e5798',1,'ConlluVisualiser.CurrentState.MainForm()'],['../class_conllu_visualiser_1_1_list_of_sentences.html#a9e35d8a4b3b953748a69c9417d5a8889',1,'ConlluVisualiser.ListOfSentences.MainForm()']]],
+  ['mainword',['MainWord',['../class_conllu_visualiser_1_1_empty_node_word.html#ab2b21b9e580cbba7b5dd97610bb26638',1,'ConlluVisualiser::EmptyNodeWord']]],
+  ['makekeyfromfile',['MakeKeyFromFile',['../class_conllu_visualiser_1_1_shortcut_keys_1_1_shortcut_key.html#ad966aca773c4cdccb772f6a6a5635798',1,'ConlluVisualiser::ShortcutKeys::ShortcutKey']]],
+  ['makemultiword',['MakeMultiword',['../class_graph_visualiser_1_1_enhanced_visualiser_1_1_get_menu_enhanced.html#af1467b71adc0b697692f8784f18ebc9c',1,'GraphVisualiser::EnhancedVisualiser::GetMenuEnhanced']]],
+  ['makenewlistofsentences',['MakeNewListOfSentences',['../class_conllu_visualiser_1_1_app_form.html#ad8138d56bb1d7bd7d9476d5a23aad6d2',1,'ConlluVisualiser::AppForm']]],
+  ['makenewsentence',['MakeNewSentence',['../class_conllu_visualiser_1_1_list_of_sentences.html#a1700e135191d3d5e51d1ff5f62105f84',1,'ConlluVisualiser::ListOfSentences']]],
+  ['makepagebutton',['MakePageButton',['../class_conllu_visualiser_1_1_list_of_sentences.html#adcc6a3fc0af5a7949114c468da6e2aac',1,'ConlluVisualiser::ListOfSentences']]],
+  ['makereadonly',['MakeReadonly',['../class_conllu_visualiser_1_1_conllu_validator.html#aae2d4a4f779d923769cba6bf74ba4bb7',1,'ConlluVisualiser.ConlluValidator.MakeReadonly()'],['../class_finder_1_1_find_node_validator.html#a6cf17d7e680e4f53cb3681cf310f2d14',1,'Finder.FindNodeValidator.MakeReadonly()'],['../interface_conllu_visualiser_1_1_i_validator.html#a1716859aea4dac972c29afeaacb7c4b8',1,'ConlluVisualiser.IValidator.MakeReadonly()'],['../class_conllu_visualiser_1_1_shortcut_validator.html#ab38c17a9a91fcfea1e08acae3a73c31b',1,'ConlluVisualiser.ShortcutValidator.MakeReadonly()']]],
+  ['makesentencelinkbutton',['MakeSentenceLinkButton',['../class_conllu_visualiser_1_1_list_of_sentences.html#af6139cd556381b3a2e974ebc79327025',1,'ConlluVisualiser::ListOfSentences']]],
+  ['maketext',['MakeText',['../interface_conllu_visualiser_1_1_i_sentence.html#af13447044de9bd95acabafc8671b0b80',1,'ConlluVisualiser.ISentence.MakeText()'],['../class_conllu_visualiser_1_1_sentence.html#ac46480b4f12e68e5d759513ce808c366',1,'ConlluVisualiser.Sentence.MakeText()']]],
+  ['margin',['margin',['../class_graph_visualiser_1_1_visualiser.html#a0fcc2b0b11f2f7066d6f4e10b5aade9b',1,'GraphVisualiser::Visualiser']]],
+  ['matchpoint',['MatchPoint',['../class_conllu_visualiser_1_1_word_point.html#a01fc11c9f1ae4c8f2610f1fa701376d6',1,'ConlluVisualiser::WordPoint']]],
+  ['maximumheight',['MaximumHeight',['../class_graph_visualiser_1_1_basic_visualiser_1_1_basic_point_counter.html#a43e67b582b05f4197a77e6974f086bdd',1,'GraphVisualiser::BasicVisualiser::BasicPointCounter']]],
+  ['menustrip1',['menuStrip1',['../class_conllu_visualiser_1_1_app_form.html#ab4b7da21acfce8bf14a9dc9654e52889',1,'ConlluVisualiser::AppForm']]],
+  ['messagepanel',['MessagePanel',['../class_conllu_visualiser_1_1_simple_file_loader.html#a31756938057f91a26921c857bcc7491b',1,'ConlluVisualiser::SimpleFileLoader']]],
+  ['minlevel',['MinLevel',['../class_conllu_visualiser_1_1_multi_word.html#a07ca7efe978f1d176911f763eb001a6c',1,'ConlluVisualiser::MultiWord']]],
+  ['minleveldiff',['minLevelDiff',['../class_graph_visualiser_1_1_basic_visualiser_1_1_basic_point_counter.html#a5d7245fcdaaf813afa91f6f45d68ce50',1,'GraphVisualiser::BasicVisualiser::BasicPointCounter']]],
+  ['minspace',['minSpace',['../class_graph_visualiser_1_1_basic_visualiser_1_1_basic_point_counter.html#a77ec7a07889db8f8c397d355be6af592',1,'GraphVisualiser::BasicVisualiser::BasicPointCounter']]],
+  ['misc',['misc',['../class_conllu_visualiser_1_1_shortcut_keys_1_1_shortcut_key.html#abe5fdf8cf8b7bbd5567e7e11f5a065eb',1,'ConlluVisualiser.ShortcutKeys.ShortcutKey.misc()'],['../class_conllu_visualiser_1_1_word_info.html#a61c342972af7ecb237a83541538420b6',1,'ConlluVisualiser.WordInfo.Misc()']]],
+  ['movedpoint',['MovedPoint',['../class_conllu_visualiser_1_1_app_form.html#a079aea01c2d7ff6de2c0a4771f317504',1,'ConlluVisualiser::AppForm']]],
+  ['multiword',['MultiWord',['../class_conllu_visualiser_1_1_multi_word.html',1,'ConlluVisualiser.MultiWord'],['../class_conllu_visualiser_1_1_multi_word.html#ac6d02992ecdfbc6bca3a3a05932ddf84',1,'ConlluVisualiser.MultiWord.MultiWord(string word, string id)'],['../class_conllu_visualiser_1_1_multi_word.html#a029acea86ca8b112b482e58b5064aad3',1,'ConlluVisualiser.MultiWord.MultiWord(IWord first, IWord second, ISentence sentence)']]],
+  ['multiword_2ecs',['MultiWord.cs',['../_multi_word_8cs.html',1,'']]]
+];

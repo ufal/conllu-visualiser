@@ -1,0 +1,26 @@
+var class_conllu_visualiser_1_1_basic_word =
+[
+    [ "BasicWord", "class_conllu_visualiser_1_1_basic_word.html#a2273be1515186bf17d814795f7bde146", null ],
+    [ "Accept", "class_conllu_visualiser_1_1_basic_word.html#ab8542ee1405ed7d237ce198684627c20", null ],
+    [ "AddChild", "class_conllu_visualiser_1_1_basic_word.html#a4061354f8c3f9969c7292ee31be52485", null ],
+    [ "AddEmptyNode", "class_conllu_visualiser_1_1_basic_word.html#ad63c042f7911b9dba11a957d203cbbde", null ],
+    [ "CanBeParentOf", "class_conllu_visualiser_1_1_basic_word.html#a87c5e338615652df9535d07f86cc6071", null ],
+    [ "CanStartNewSentence", "class_conllu_visualiser_1_1_basic_word.html#a67f3950cbd12a52d148465b342ca4f90", null ],
+    [ "ChangeId", "class_conllu_visualiser_1_1_basic_word.html#a34adad94f89d5e748e625ce3e49c35fa", null ],
+    [ "Delete", "class_conllu_visualiser_1_1_basic_word.html#a97badc6cdaef7f0d29900ea5c43b30fb", null ],
+    [ "GetContextMenu", "class_conllu_visualiser_1_1_basic_word.html#a00144db6b1f847bfadc8b9b4e552a38f", null ],
+    [ "GetFormToSentence", "class_conllu_visualiser_1_1_basic_word.html#a0a99d05c013c1183b2554c6b63971bac", null ],
+    [ "GetSwappedSibling", "class_conllu_visualiser_1_1_basic_word.html#a4486b6cead55aed5d07e8a8d28f4e8ed", null ],
+    [ "GetWordBasicInfo", "class_conllu_visualiser_1_1_basic_word.html#a47eb209edb122862317ebaa994273b21", null ],
+    [ "RemoveChild", "class_conllu_visualiser_1_1_basic_word.html#aa48da9ea991245756464c23b1b54fad5", null ],
+    [ "ShiftId", "class_conllu_visualiser_1_1_basic_word.html#af12795907828cd71d4602f6f9835f039", null ],
+    [ "ShowInfo", "class_conllu_visualiser_1_1_basic_word.html#a3d9b3e70990265f5dbfb40cd5b0ee499", null ],
+    [ "Swap", "class_conllu_visualiser_1_1_basic_word.html#a7ce4b3983ad16476a6d22c313106c400", null ],
+    [ "IsJoined", "class_conllu_visualiser_1_1_basic_word.html#ab2a7955d6136552e1c7f1ba860d23ca3", null ],
+    [ "parent", "class_conllu_visualiser_1_1_basic_word.html#a0b6779b7e161f3c4520999124a756f61", null ],
+    [ "Children", "class_conllu_visualiser_1_1_basic_word.html#a1d55d998a0c7fdd90a6668279e21800c", null ],
+    [ "EmptyNodes", "class_conllu_visualiser_1_1_basic_word.html#a8d591a07f3329880ee0d1e278fcd79a6", null ],
+    [ "IsRoot", "class_conllu_visualiser_1_1_basic_word.html#a67e491c6a9893770ba127ca92bbf29d8", null ],
+    [ "JoinedWord", "class_conllu_visualiser_1_1_basic_word.html#a7060ff3fe374a6671699bb142f8b989f", null ],
+    [ "Parent", "class_conllu_visualiser_1_1_basic_word.html#ad5555648592d81d5e8859c933f72c410", null ]
+];
